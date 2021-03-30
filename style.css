@@ -1,0 +1,74 @@
+*{
+    padding-top: 10px;
+    margin-top: auto;
+    background-color: rgb(185, 185, 24);
+    font-family: 'Times New Roman';
+    text-justify: auto;     
+}
+.id{
+    display: flex;
+    width: 100%;
+}
+.picture{
+    float: left;
+}
+table,th,td,tr{
+     text-align: center;
+     border: 1px solid black;
+     border-collapse: collapse;
+   }
+    table{
+        width: 100%;
+    }
+.city{
+    padding-left: -5ch;
+}
+.history {
+display: flex;
+}
+.hist{
+   display: flex;
+}
+.his {
+    display: flex;
+}
+.footer{
+  text-align: center;
+}
+.historical{
+    display: flex;
+    /* display: grid; */
+    /* grid-template-columns: 25% 25% 25% ; */
+    /* grid-gap:5%; */
+}
+.historical p{
+font-size: 15px;
+
+}
+.header{
+    display: flex;
+    padding-bottom: -10mm;
+}
+.img1{
+   margin-top: 20mm;
+   
+}
+.img2{
+    margin-top: 35mm;
+}
+.img3{
+    margin-top: 37mm;
+}
+.district{
+    padding-right: 5mm;
+    padding-left: 5mm;
+    
+}
+.castle{
+    padding-right: 5mm;
+    padding-left: 5mm;
+}
+.castleof{
+    display: flex;
+}
+
